@@ -26,6 +26,6 @@ public class Client {
 		System.out.println("Issue opened on: " + ticketAdapter.getOpenDate());
 		System.out.println("Issue closed on: " + ticketAdapter.getCloseDate());
 
-		// and what about adapting data types?
+		// and what about adapting message data/format?
 	}
 }
